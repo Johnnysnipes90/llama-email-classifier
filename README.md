@@ -4,7 +4,7 @@ AI-Powered Email Classifier Using LLaMA | Prioritize Your Inbox with Local LLMs
 ## 🚀 Project Description
 This project demonstrates how to use a local LLaMA-based LLM (model.gguf) to classify email content into three meaningful categories: Priority, Updates, or Promotions. By leveraging prompt engineering, we integrate LLaMA with a real-world dataset to build a powerful, privacy-preserving inbox assistant that runs entirely offline.
 
-###💡 Key Features
+### 💡 Key Features
 - 🧠 Local LLM Inference using LLaMA
 
 - ✉️ Email Categorization using prompt-based text classification
